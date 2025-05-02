@@ -29,7 +29,7 @@
 - 🎨 [Etch-a-Sketch](https://github.com/ShadowGuy01234/Etch-a-Sketch)  
   Interactive drawing canvas using HTML, CSS, and JavaScript DOM manipulation.  
 
-- 🌦️ [WeatherNow (WIP)](https://github.com/ShadowGuy01234/WeatherNow)  
+- 🌦️ [WeatherNow (WIP)](https://github.com/ShadowGuy01234/Weather-app)  
   A full-fledged weather website built using React and Express.js with features like live weather, location setting, and theme switch.
 
 ## 🎯 Achievements  
