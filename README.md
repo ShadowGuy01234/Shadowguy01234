@@ -59,7 +59,7 @@ I'm a **Full-Stack Developer** and **AI/ML Engineer** building production-grade 
 - Implemented authentication, role-based access control, and data management systems
 - **Tech Stack:** Node.js, Express.js, MongoDB, React.js
 
-### Core Team Member | **Reso Society - MMMUT**
+**[MMMUTRESO](https://www.mmmut.xyz/)** | ### Core Team Member | **Reso Society - MMMUT**
 
 _Ongoing_
 
