@@ -24,8 +24,8 @@ I'm a **Full-Stack Developer** and **AI/ML Engineer** building production-grade 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadowguy01234&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowguy01234&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowguy01234&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
