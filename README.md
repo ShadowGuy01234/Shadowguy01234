@@ -17,11 +17,11 @@
   </p>
 </div>
 
-```txt
-profile.mode      minimal-tech
-current.role      Intern at AiProff
-signature.win     Smart India Hackathon 2025 (1st place, 500+ teams)
-engineering.bias  scalable products, measurable performance, reliable delivery
+```md
+profile.mode minimal-tech
+current.role Intern at AiProff
+signature.win Smart India Hackathon 2025 (1st place, 500+ teams)
+engineering.bias scalable products, measurable performance, reliable delivery
 ```
 
 ## Signal Snapshot
@@ -152,15 +152,11 @@ engineering.bias  scalable products, measurable performance, reliable delivery
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ShadowGuy01234&hide_border=true&background=00000000&ring=00bcd4&fire=00bcd4&currStreakLabel=00bcd4" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ShadowGuy01234&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadowGuy01234&bg_color=00000000&color=c9d1d9&line=00bcd4&point=00bcd4&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShadowGuy01234&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
